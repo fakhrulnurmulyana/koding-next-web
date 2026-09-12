@@ -8,13 +8,6 @@ A simple personal portfolio website to introduce myself and showcase my projects
 - CSS
 - Bootstrap
 
-## Features
-
-- Home section
-- About Me section
-- Project showcase
-- Links to project repositories
-
 ## Getting Started
 
 Clone the repository:
