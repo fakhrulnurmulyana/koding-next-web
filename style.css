@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    background-color: #1a1a1a;
+    color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+nav {
+    border-bottom: 1px solid #333;
+}
+
+nav a {
+    margin-right: 20px;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #f2f2f2;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+    color: #ccc;
+}
+
+#home {
+    padding: 80px 20px;
+    text-align: center;
+}
+
+#home img {
+    width: 250px;
+    height: auto;
+}
+
+.card {
+    background-color: #1e1e1e;
+    color: #f2f2f2;
+}
+
+.project-card {
+    min-height: 250px;
+    background-size: cover;
+    background-position: center;
+}
+
+/*
+.translate-card {
+    background-image: url("assets/translate.gif");
+}
+
+.absen-card {
+    background-image: url("assets/face_recognition.jpg");
+}
+*/
+
+.btn-project {
+    background-color: #ff7610;
+    color: #1e1e1e;
+    border: 1px solid #ff7610;
+}
+
+.btn-project:hover {
+    background-color: #e86600;
+    color: #f2f2f2;
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+    border-top: 1px solid #333;
+}
